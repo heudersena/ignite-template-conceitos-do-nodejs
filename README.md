@@ -18,4 +18,4 @@
 ```
 <hr>
 
-<img src="https://raw.githubusercontent.com/heudersena/ignite-template-conceitos-do-nodejs/main/src/image/image.jpg" width="100">
+<img src="https://raw.githubusercontent.com/heudersena/ignite-template-conceitos-do-nodejs/main/src/image/image.jpg" width="900">
